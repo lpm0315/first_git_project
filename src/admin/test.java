@@ -12,6 +12,9 @@ public class test {
 		System.out.println(ta.getUser());
 		System.out.println(ta.getPassword());
 		System.out.println(ta.getDiscript());
+	    shaziyo a=new shaziyo();
+		a.setId("1");
+		a.setCb("18s");
 
 	}
 
