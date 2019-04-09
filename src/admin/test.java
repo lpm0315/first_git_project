@@ -8,7 +8,7 @@ public class test {
 		shaziyo a=new shaziyo();
 		a.setId("1");
 		a.setCb("18s");
-
+		System.out.println("welcome to github!");
 	}
 
 }
